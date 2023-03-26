@@ -1,0 +1,22 @@
+.root {
+  position: absolute;
+  left: 4px;
+  top: 663px;
+  width: 426px;
+  height: 39px;
+  align-items: flex-start;
+}
+.popularRestaurantNearby {
+  color: #000;
+  font-size: 22px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 5.3991%;
+  right: 5.6338%;
+  top: 0;
+  bottom: 17.9487%;
+  justify-content: flex-end;
+  flex-direction: column;
+}

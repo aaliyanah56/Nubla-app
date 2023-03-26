@@ -1,0 +1,256 @@
+.iOSStatusBarBlack.iOSStatusBarBlack {
+  left: 19px;
+  top: 14px;
+  width: 394px;
+  height: 57px;
+}
+.rightSide.rightSide {
+  left: 317px;
+}
+.rightSide {
+  left: 317px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 435px;
+  height: 918px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.donTHaveAnAccountRegister {
+  position: absolute;
+  left: calc(50% - -1px);
+  bottom: 33px;
+  width: 349px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.labelWrapper {
+  font-size: 18px;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #000;
+  font-size: 18px;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label2 {
+  color: #0d3c06;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.loginBtn {
+  position: absolute;
+  left: calc(50% - 7px);
+  bottom: 287px;
+  width: 261px;
+  height: 65px;
+  align-items: flex-start;
+  transform: translateX(-50%);
+}
+.bg {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 20px;
+  background-color: #0d3c06;
+  box-shadow: -1px 1px 10px 0px #05052226;
+}
+.login {
+  color: #fff;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 36.4337%;
+  right: 29.8172%;
+  top: 26.5261%;
+  bottom: 34.8905%;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  text-shadow: -1px 1px 10px #ffde6926;
+  flex-direction: column;
+}
+.forgotPassword {
+  color: #000;
+  font-size: 12px;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  right: 49px;
+  bottom: 186px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle3 {
+  position: absolute;
+  left: 38px;
+  bottom: 189px;
+  width: 20px;
+  height: 20px;
+  outline: solid 2px #dadada;
+  outline-offset: -2px;
+  border-radius: 5px;
+  background-color: #d7d7d7;
+}
+.rememberMe {
+  color: #000;
+  font-size: 12px;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 63px;
+  bottom: 191px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.bg2 {
+  position: absolute;
+  left: calc(50% - 12.5px);
+  bottom: 430px;
+  width: 388px;
+  height: 67px;
+  outline: solid 2px #dadada;
+  outline-offset: -2px;
+  border-radius: 10px;
+  transform: translateX(-50%);
+}
+.lock {
+  position: absolute;
+  left: calc(50% - -149.2663px);
+  bottom: 450.1px;
+  width: 28.6523px;
+  height: 26.8px;
+  transform: translateX(-50%);
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.labelTitle {
+  color: #00000087;
+  font-size: 18px;
+  font-stretch: condensed;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: calc(50% - 137.257px);
+  bottom: 453.45px;
+  width: 90.7323px;
+  height: 23.45px;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.bg3 {
+  position: absolute;
+  left: calc(50% - 12.5px);
+  bottom: 557px;
+  width: 388px;
+  height: 67px;
+  outline: solid 2px #dadada;
+  outline-offset: -2px;
+  border-radius: 10px;
+  transform: translateX(-50%);
+}
+.placeholder {
+  color: #0006;
+  font-size: 16px;
+  line-height: 24px;
+  font-stretch: condensed;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: calc(50% - 141.5857px);
+  bottom: 585px;
+  width: 107.8857px;
+  height: 24px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.bg4 {
+  position: absolute;
+  left: calc(50% - 135.3967px);
+  bottom: 614.2676px;
+  width: 117.0286px;
+  height: 16.7606px;
+  border-radius: 10px;
+  background-color: #0d3c06;
+  transform: translateX(-50%);
+}
+.labelTitle2 {
+  color: #fff;
+  font-size: 15px;
+  font-stretch: condensed;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: calc(50% - 138.047px);
+  bottom: 615px;
+  width: 92.5845px;
+  height: min-content;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.login2 {
+  color: #000;
+  font-size: 28px;
+  line-height: 24px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.04em;
+  position: absolute;
+  left: 42px;
+  bottom: 717px;
+  width: 80px;
+  height: 24px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.welcomeBack {
+  color: #000;
+  font-size: 26px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.04em;
+  position: absolute;
+  left: 97px;
+  bottom: 793px;
+  width: 227px;
+  height: 21px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

@@ -1,0 +1,138 @@
+.iOSStatusBarBlack.iOSStatusBarBlack {
+  left: 14px;
+  top: 18px;
+  width: 408px;
+  height: 39px;
+  border-radius: 25px;
+}
+.rightSide.rightSide {
+  left: 331px;
+}
+.rightSide {
+  left: 331px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 435px;
+  height: 918px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.whereWillWeDeliverTo {
+  color: #000;
+  font-size: 26px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.02em;
+  position: absolute;
+  left: 99px;
+  top: 68px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.arrowLeft {
+  position: absolute;
+  left: 24px;
+  top: 66px;
+  width: 25px;
+  height: 25px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse8 {
+  position: absolute;
+  left: 26px;
+  top: 142px;
+  width: 91.018px;
+  height: 80px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.kenya {
+  color: #000;
+  font-size: 26px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.02em;
+  position: absolute;
+  left: 139.7725px;
+  top: 161px;
+  width: 76.2275px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.download21 {
+  position: absolute;
+  left: 44.2036px;
+  top: 156px;
+  width: 60.2994px;
+  height: 52px;
+  background-image:/* webpackIgnore: true */ url('assets/download21.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ellipse7 {
+  position: absolute;
+  left: 26px;
+  top: 242px;
+  width: 73.43px;
+  height: 80px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.download1 {
+  position: absolute;
+  left: 46.1932px;
+  top: 256px;
+  width: 49.753px;
+  height: 53px;
+  background-image:/* webpackIgnore: true */ url('assets/download1.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.tanzania {
+  color: #000;
+  font-size: 26px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.02em;
+  position: absolute;
+  left: 116px;
+  top: 270px;
+  width: 105px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}

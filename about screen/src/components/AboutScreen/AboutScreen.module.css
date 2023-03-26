@@ -1,0 +1,256 @@
+.iOSStatusBarBlack.iOSStatusBarBlack {
+  left: 14px;
+  top: 19px;
+  width: 408px;
+  height: 39px;
+  border-radius: 25px;
+}
+.rightSide.rightSide {
+  left: 331px;
+}
+.rightSide {
+  left: 331px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 435px;
+  height: 918px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.aboutUs {
+  color: #000;
+  font-size: 28px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+  position: absolute;
+  left: 161px;
+  top: 65px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.arrowLeft {
+  position: absolute;
+  left: 24px;
+  top: 66px;
+  width: 25px;
+  height: 25px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.fAQ {
+  color: #000;
+  font-size: 28px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+  position: absolute;
+  left: 26px;
+  top: 160px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.appFeedback {
+  color: #000;
+  font-size: 28px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+  position: absolute;
+  left: 24px;
+  top: 224px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.privacyPolicy {
+  color: #000;
+  font-size: 28px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+  position: absolute;
+  left: 26px;
+  top: 288px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.termsOfUse {
+  color: #000;
+  font-size: 28px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+  position: absolute;
+  left: 26px;
+  top: 352px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.facebook {
+  color: #000;
+  font-size: 28px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+  position: absolute;
+  left: 24px;
+  top: 499px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.twitter {
+  color: #000;
+  font-size: 28px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+  position: absolute;
+  left: 26px;
+  top: 563px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.instagram {
+  color: #000;
+  font-size: 28px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+  position: absolute;
+  left: 24px;
+  top: 627px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.line10 {
+  position: absolute;
+  left: -0.4598%;
+  right: -0.4598%;
+  top: 76.2527%;
+  bottom: 23.5294%;
+  max-width: 100%;
+  max-height: 100%;
+  outline: solid 1px #000;
+}
+.angleRight {
+  position: absolute;
+  left: 394px;
+  top: 641px;
+  width: 25px;
+  height: 25px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.angleRight2 {
+  position: absolute;
+  left: 394px;
+  top: 567px;
+  width: 25px;
+  height: 25px;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.angleRight3 {
+  position: absolute;
+  left: 394px;
+  top: 500px;
+  width: 25px;
+  height: 25px;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.angleRight4 {
+  position: absolute;
+  left: 394px;
+  top: 359px;
+  width: 25px;
+  height: 25px;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.angleRight5 {
+  position: absolute;
+  left: 394px;
+  top: 296px;
+  width: 25px;
+  height: 25px;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.angleRight6 {
+  position: absolute;
+  left: 394px;
+  top: 229px;
+  width: 25px;
+  height: 25px;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.angleRight7 {
+  position: absolute;
+  left: 394px;
+  top: 160px;
+  width: 25px;
+  height: 25px;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}

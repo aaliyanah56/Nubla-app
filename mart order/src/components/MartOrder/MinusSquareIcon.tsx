@@ -1,0 +1,13 @@
+import { memo, SVGProps } from 'react';
+
+const MinusSquareIcon = (props: SVGProps<SVGSVGElement>) => (
+  <svg preserveAspectRatio='none' viewBox='0 0 43 51' fill='none' xmlns='http://www.w3.org/2000/svg' {...props}>
+    <path
+      d='M36.2812 3.1875H6.71875C4.49316 3.1875 2.6875 5.3291 2.6875 7.96875V43.0312C2.6875 45.6709 4.49316 47.8125 6.71875 47.8125H36.2812C38.5068 47.8125 40.3125 45.6709 40.3125 43.0312V7.96875C40.3125 5.3291 38.5068 3.1875 36.2812 3.1875ZM10.4141 29.4844C9.85977 29.4844 9.40625 28.9465 9.40625 28.2891V22.7109C9.40625 22.0535 9.85977 21.5156 10.4141 21.5156H32.5859C33.1402 21.5156 33.5938 22.0535 33.5938 22.7109V28.2891C33.5938 28.9465 33.1402 29.4844 32.5859 29.4844H10.4141Z'
+      fill='#0D3C06'
+    />
+  </svg>
+);
+
+const Memo = memo(MinusSquareIcon);
+export { Memo as MinusSquareIcon };

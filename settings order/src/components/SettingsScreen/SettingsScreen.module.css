@@ -1,0 +1,218 @@
+.iOSStatusBarBlack.iOSStatusBarBlack {
+  top: 13px;
+  width: 408px;
+  height: 39px;
+  border-radius: 25px;
+}
+.rightSide.rightSide {
+  left: 331px;
+}
+.rightSide {
+  left: 331px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 435px;
+  height: 918px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle536 {
+  position: absolute;
+  left: 31px;
+  top: 459px;
+  width: 194px;
+  height: 95px;
+  background-color: #fff;
+}
+.rectangle535 {
+  position: absolute;
+  left: 22px;
+  top: 332px;
+  width: 194px;
+  height: 95px;
+  background-color: #fff;
+}
+.rectangle534 {
+  position: absolute;
+  left: 22px;
+  top: 211px;
+  width: 194px;
+  height: 95px;
+  background-color: #fff;
+}
+.settings {
+  color: #000;
+  font-size: 28px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.02em;
+  position: absolute;
+  left: 132px;
+  top: 67px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.line10 {
+  position: absolute;
+  left: -0.9195%;
+  right: 0;
+  top: 21.024%;
+  bottom: 78.7582%;
+  max-width: 100%;
+  max-height: 100%;
+  outline: solid 1px #000;
+}
+.notification {
+  color: #000;
+  font-size: 28px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.02em;
+  position: absolute;
+  left: 38px;
+  top: 131px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.language {
+  color: #000;
+  font-size: 28px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.02em;
+  position: absolute;
+  left: 35px;
+  top: 220px;
+  width: 126px;
+  height: 33px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.english {
+  color: #0d3c06;
+  font-size: 26px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.02em;
+  position: absolute;
+  left: 56px;
+  top: 268px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.line11 {
+  position: absolute;
+  left: 0;
+  right: -0.9195%;
+  top: 34.8584%;
+  bottom: 64.9237%;
+  max-width: 100%;
+  max-height: 100%;
+  outline: solid 1px #000;
+}
+.country {
+  color: #000;
+  font-size: 28px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.02em;
+  position: absolute;
+  left: 26px;
+  top: 352px;
+  width: 120px;
+  height: 43px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.kenya {
+  color: #0d3c06;
+  font-size: 26px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.02em;
+  position: absolute;
+  left: 56px;
+  top: 395px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.line12 {
+  position: absolute;
+  left: -0.4598%;
+  right: -0.4598%;
+  top: 48.2571%;
+  bottom: 51.5251%;
+  max-width: 100%;
+  max-height: 100%;
+  outline: solid 1px #000;
+}
+.arrowLeft {
+  position: absolute;
+  left: 13px;
+  top: 67px;
+  width: 25px;
+  height: 25px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.logIn {
+  color: #000;
+  font-size: 28px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+  position: absolute;
+  left: 38px;
+  top: 471px;
+  width: 94px;
+  height: 64px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

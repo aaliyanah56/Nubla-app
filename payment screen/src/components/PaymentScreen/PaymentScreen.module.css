@@ -1,0 +1,163 @@
+.iOSStatusBarBlack.iOSStatusBarBlack {
+  left: 14px;
+  top: 15px;
+  width: 408px;
+  height: 39px;
+  border-radius: 25px;
+}
+.rightSide.rightSide {
+  left: 331px;
+}
+.rightSide {
+  left: 331px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 435px;
+  height: 918px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.nublaPay {
+  color: #000;
+  font-size: 28px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+  position: absolute;
+  left: 154px;
+  top: 68px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.arrowLeft {
+  position: absolute;
+  left: 24px;
+  top: 72px;
+  width: 25px;
+  height: 25px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle538 {
+  position: absolute;
+  left: 34px;
+  top: 441px;
+  width: 120px;
+  height: 80px;
+  background-color: #fff;
+}
+.download11 {
+  position: absolute;
+  left: 26px;
+  top: 441px;
+  width: 135.8904px;
+  height: 80px;
+  background-image:/* webpackIgnore: true */ url('assets/download11.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.tigo {
+  color: #000;
+  font-size: 28px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+  position: absolute;
+  left: 197px;
+  top: 465px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle539 {
+  position: absolute;
+  left: 26px;
+  top: 286px;
+  width: 139.6757px;
+  height: 80px;
+  background-color: #d9d9d9;
+}
+.download41 {
+  position: absolute;
+  left: 27.1634px;
+  top: 286px;
+  width: 138.5117px;
+  height: 80px;
+  background-image:/* webpackIgnore: true */ url('assets/download41.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.visa {
+  color: #000;
+  font-size: 28px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+  position: absolute;
+  left: 201.6216px;
+  top: 310px;
+  width: 52.3784px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.rectangle540 {
+  position: absolute;
+  left: 31.6489px;
+  top: 151px;
+  width: 112.9795px;
+  height: 80px;
+  background-color: #d9d9d9;
+}
+.download31 {
+  position: absolute;
+  left: 26px;
+  top: 151px;
+  width: 119.0366px;
+  height: 80px;
+  background-image:/* webpackIgnore: true */ url('assets/download31.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.mpesa {
+  color: #000;
+  font-size: 28px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+  position: absolute;
+  left: 163.5862px;
+  top: 165px;
+  width: 90.4138px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}

@@ -1,0 +1,158 @@
+.iOSStatusBarBlack.iOSStatusBarBlack {
+  left: 19px;
+  top: 16px;
+  width: 400px;
+  height: 40px;
+}
+.rightSide.rightSide {
+  left: 323px;
+}
+.rightSide {
+  left: 323px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.buttonPrimary.buttonPrimary {
+  left: 43px;
+  top: 757px;
+  height: min-content;
+}
+.setLocationAutomatically {
+  width: 317px;
+  height: 71px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock {
+  color: #fff;
+  font-size: 32px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.04em;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 32px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.04em;
+}
+.root {
+  position: relative;
+  width: 435px;
+  height: 918px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.thomasKinto6MsMKWzJWKcUnsplash {
+  position: absolute;
+  left: 0;
+  top: 216px;
+  width: 451px;
+  height: 338px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.locationArrow {
+  position: absolute;
+  left: 396px;
+  top: 506px;
+  width: 25px;
+  height: 25px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.search {
+  position: absolute;
+  left: 128px;
+  top: 70px;
+  width: 25px;
+  height: 30.6818px;
+  background-color: #0000;
+  overflow: hidden;
+}
+.rectangle504 {
+  position: absolute;
+  left: 78px;
+  top: 77.3636px;
+  width: 339px;
+  height: 46.6364px;
+  border-radius: 10px;
+  background-color: #d9d9d9;
+}
+.searchForYourAddress {
+  color: #000;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 200;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 172px;
+  top: 85.9545px;
+  width: 187px;
+  height: 29.4545px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.vector {
+  position: absolute;
+  left: 20.1774%;
+  right: 72.7273%;
+  top: 9.0414%;
+  bottom: 87.4728%;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.arrow4 {
+  position: absolute;
+  left: 23px;
+  top: 101px;
+  width: 34px;
+  max-width: 100%;
+  height: 3px;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.explore {
+  color: #000;
+  font-size: 32px;
+  line-height: 24px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 159px;
+  top: 151px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}

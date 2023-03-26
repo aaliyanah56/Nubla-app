@@ -1,0 +1,269 @@
+.iOSStatusBarBlack.iOSStatusBarBlack {
+  left: 14px;
+  top: 16px;
+  width: 408px;
+  height: 39px;
+  border-radius: 25px;
+}
+.rightSide.rightSide {
+  left: 331px;
+}
+.rightSide {
+  left: 331px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 435px;
+  height: 918px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.help {
+  color: #000;
+  font-size: 28px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+  position: absolute;
+  left: 189px;
+  top: 67px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.arrowLeft {
+  position: absolute;
+  left: 14px;
+  top: 71px;
+  width: 25px;
+  height: 25px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.ifYouCreateYourOwnAccountWithN {
+  position: absolute;
+  left: 0;
+  top: 320px;
+  width: 435px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock {
+  color: #000;
+  font-size: 17px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #000;
+  font-size: 17px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+}
+.textBlock3 {
+  margin-top: 0;
+  color: #000;
+  font-size: 17px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+}
+.textBlock4 {
+  margin-top: 0;
+  color: #000;
+  font-size: 17px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+}
+.textBlock5 {
+  margin-top: 0;
+  color: #000;
+  font-size: 17px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+}
+.textBlock6 {
+  margin-top: 0;
+  color: #000;
+  font-size: 17px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+}
+.youNeedANublaAccountSoWeCanHel {
+  position: absolute;
+  left: 14px;
+  top: 127px;
+  width: 373px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock7 {
+  color: #000;
+  font-size: 28px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+}
+.textBlock8 {
+  margin-top: 0;
+  color: #000;
+  font-size: 28px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+}
+.weNoticedThatYouAreAGuestUserA {
+  position: absolute;
+  left: 10px;
+  top: 224px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock9 {
+  color: #000;
+  font-size: 17px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+}
+.textBlock10 {
+  margin-top: 0;
+  color: #000;
+  font-size: 17px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+}
+.textBlock11 {
+  margin-top: 0;
+  color: #000;
+  font-size: 17px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+}
+.textBlock12 {
+  margin-top: 0;
+  color: #000;
+  font-size: 17px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+}
+.afterAFewEasyResistrationSteps {
+  position: absolute;
+  left: 14px;
+  top: 459px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock13 {
+  color: #000;
+  font-size: 17px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+}
+.textBlock14 {
+  margin-top: 0;
+  color: #000;
+  font-size: 17px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+}
+.textBlock15 {
+  margin-top: 0;
+  color: #000;
+  font-size: 17px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+}
+.textBlock16 {
+  margin-top: 0;
+  color: #000;
+  font-size: 17px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+}
+.textBlock17 {
+  margin-top: 0;
+  color: #000;
+  font-size: 17px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.002em;
+}
+.loginBtn {
+  position: absolute;
+  left: calc(50% - -6px);
+  bottom: 43px;
+  width: 261px;
+  height: 65px;
+  align-items: flex-start;
+  transform: translateX(-50%);
+}
+.bg {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 20px;
+  background-color: #0d3c06;
+  box-shadow: -1px 1px 10px 0px #05052226;
+}
+.login {
+  color: #fff;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 36.4337%;
+  right: 29.8172%;
+  top: 26.5261%;
+  bottom: 34.8905%;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  text-shadow: -1px 1px 10px #ffde6926;
+  flex-direction: column;
+}
